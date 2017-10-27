@@ -6,17 +6,25 @@ As a senior student in Brazil, Bruno was selected to be part of the Brazilian Sc
 ## Skills
 
 **Advanced**: PHP/Cakephp, MySQL, HTML/CSS, SASS, jQuery, Photoshop, Illustrator, After Effects
+
 **Intermediate**: Javascript, Cordova, Elastsearch, InDesign
+
 **Beginner**: Django, Vue
+
 
 
 ## Projects
 
 Studio Raw: http://studioraw.co
+
 Bruno Serra: http://brunoserra.com
+
 Camarao do Elias: http://camaraodoelias.com
+
 Camarao IOS: https://itunes.apple.com/br/app/id1131377409?mt=8
+
 Camarao Android: https://play.google.com/store/apps/details?id=com.app.camarao
+
 
 You can other projects at my Behance account: https://www.behance.net/brunoserra
 
@@ -24,9 +32,13 @@ You can other projects at my Behance account: https://www.behance.net/brunoserra
 ## Seminar
 
 I'm interested in the following topics:
+
 1. React Native
+
 2. Node.js
+
 3. AR with Unit 3D
+
 
 ## Get in touch
 
