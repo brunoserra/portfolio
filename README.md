@@ -1,3 +1,5 @@
+# Bruno Serra's Portfolio
+
 ## Intro
 
  As a senior student in Brazil, Bruno was selected to be part of the Brazilian Scientific Mobility Program which brought him to study at New York Institute of Technology as a non-degree international student (fully funded by the Brazilian government). Besides computers and technology, he is really passionate about design, UX and advertising. He believes that mixing up design, advertising and technology is the key for a successful and a differentiated career. Bruno specializes in the skills of PHP, Web Design and Photoshop. His first contact with these fields was when he was 14 years old when, with his entrepreneurship skills, Bruno started his own website project to make money.
