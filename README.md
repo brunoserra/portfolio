@@ -7,7 +7,7 @@ As a senior student in Brazil, Bruno was selected to be part of the Brazilian Sc
 
 **Advanced**: PHP/Cakephp, MySQL, HTML/CSS, SASS, jQuery, Photoshop, Illustrator, After Effects
 
-**Intermediate**: Javascript, Cordova, Elastsearch, InDesign
+**Intermediate**: Javascript, Cordova, AWS, Elastsearch, InDesign
 
 **Beginner**: Django, Vue
 
